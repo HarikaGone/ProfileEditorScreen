@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProfileEditorScreen</string>
+    <string name="name">Enter your name</string>
+    <string name="phone_no">Enter your phone no</string>
+
+    <string name="email">Enter your email</string>
+
+    <string name="address">Enter your address</string>
+
+
+</resources>
